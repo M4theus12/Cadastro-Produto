@@ -1,0 +1,24 @@
+.cadatros{
+    justify-content: center;
+    display: inline-block;
+}
+
+.textfild{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;  
+}
+
+.dd{
+    margin: 0;
+    padding: 10px;
+}
+.button{
+    margin: 10px;
+}
+
+.cadatros{
+    display: flex;
+    text-align: center;
+}
+
